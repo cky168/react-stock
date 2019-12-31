@@ -1,0 +1,98 @@
+[
+  {
+    "symbol":"2018",
+      "type": "stock",
+      "share": "2500",
+      "price": "49.71"
+  },
+  {
+    "symbol":"1691",
+      "type": "stock",
+      "share": "7500",
+      "price": "5.72"
+  },
+  {
+    "symbol":"2400",
+      "type": "stock",
+      "share": "1000",
+      "price": "13.64"
+  },
+  {
+    "symbol":"2382",
+      "type": "stock",
+      "share": "",
+      "price": ""
+  },
+  {
+    "symbol":"64276", 
+      "mode": "warrant",
+      "share": "300000",
+      "price": "0.179"
+  },
+  {
+    "symbol":"1299",
+      "type": "stock",
+      "share": "",
+      "price": ""
+  },
+  {
+    "symbol":"47459", 
+      "mode": "warrant",
+      "share": "60000",
+      "price": "0.59"
+  },
+  {
+    "symbol":"135",
+      "type": "stock",
+      "share": "",
+      "price": ""
+  },
+  {
+    "symbol":"22759", 
+      "mode": "warrant",
+      "share": "70000",
+      "price": "0.32"
+  },
+  {
+    "symbol":"2318",
+      "type": "stock",
+      "share": "",
+      "price": ""
+  },
+  {
+    "symbol":"65241", 
+      "mode": "warrant",
+      "share": "600000",
+      "price": "0.052"
+  },
+  {
+    "symbol":"6060",
+      "type": "stock",
+      "share": "",
+      "price": ""
+  },
+  {
+    "symbol":"13249", 
+      "mode": "warrant",
+      "share": "400000",
+      "price": "0.322"
+  },
+  {
+    "symbol":"9988",
+      "type": "stock",
+      "share": "300",
+      "price": "193.23"
+  },
+  {
+    "symbol":"13902", 
+      "mode": "warrant",
+      "share": "300000",
+      "price": "0.260"
+  },
+  {
+    "symbol":"13534", 
+      "mode": "warrant",
+      "share": "250000",
+      "price": "0.335"
+  }
+]
