@@ -8,7 +8,7 @@
   {
     "symbol":"1691",
       "type": "stock",
-      "share": "7500",
+      "share": "4000",
       "price": "5.72"
   },
   {
@@ -30,18 +30,6 @@
       "price": "0.179"
   },
   {
-    "symbol":"1299",
-      "type": "stock",
-      "share": "",
-      "price": ""
-  },
-  {
-    "symbol":"47459", 
-      "mode": "warrant",
-      "share": "60000",
-      "price": "0.59"
-  },
-  {
     "symbol":"135",
       "type": "stock",
       "share": "",
@@ -54,16 +42,16 @@
       "price": "0.32"
   },
   {
-    "symbol":"2318",
+    "symbol":"883",
       "type": "stock",
       "share": "",
       "price": ""
   },
   {
-    "symbol":"65241", 
+    "symbol":"65861", 
       "mode": "warrant",
       "share": "600000",
-      "price": "0.052"
+      "price": "0.147"
   },
   {
     "symbol":"6060",

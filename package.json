@@ -26,6 +26,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "mongoose": "^5.8.3",
+    "node-fetch": "^2.6.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "util": "^0.12.1"
   },
